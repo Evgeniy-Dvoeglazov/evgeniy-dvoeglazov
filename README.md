@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Привет,+меня+зовут+Евгений!&size=25&width=500&repeat=false&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Привет,+меня+зовут+Евгений!&size=25&width=500&repeat=false&duration=3000&height=40)](https://git.io/typing-svg)
 - 💻 Я начинающий web-разработчик
 - Люблю изучать новое, применять на практике и видеть результат
 - Хочу верстать и кодить на React
