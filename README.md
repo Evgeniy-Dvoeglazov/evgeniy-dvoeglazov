@@ -25,4 +25,4 @@
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Evgeniy%20Dvoeglazov/badges/large)](https://www.codewars.com/users/Evgeniy%20Dvoeglazov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Dvoeglazov&layout=compact)](https://github.com/Evgeniy-Dvoeglazov/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeniy-Dvoeglazov&hide=contribs,prs,issues,stars)](https://github.com/Evgeniy-Dvoeglazov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Dvoeglazov&layout=compact)](https://github.com/Evgeniy-Dvoeglazov/github-readme-stats) 
