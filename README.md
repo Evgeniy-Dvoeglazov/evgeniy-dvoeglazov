@@ -21,9 +21,3 @@
   <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="adobe photoshop">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
 </p>
-
-## 📈 Моя статистика
-
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Evgeniy%20Dvoeglazov/badges/large)](https://www.codewars.com/users/Evgeniy%20Dvoeglazov)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Dvoeglazov&layout=compact)](https://github.com/Evgeniy-Dvoeglazov/github-readme-stats) 
