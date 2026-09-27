@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=css modules&logoColor=white" alt="css modules">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
   <img src="https://img.shields.io/badge/formik-2563EB?style=for-the-badge&logo=formik&logoColor=white" alt="formik">
   <img src="https://img.shields.io/badge/bem-000000?style=for-the-badge&logo=bem&logoColor=white" alt="bem">
